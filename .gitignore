@@ -1,3 +1,4 @@
 bin/
 Gemfile
 Gemfile.lock
+wp-content/advanced-cache.php
