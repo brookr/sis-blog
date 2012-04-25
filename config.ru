@@ -1,7 +1,6 @@
 # config.ru for Pow + Wordpress, based on http://stuff-things.net/2011/05/16/legacy-development-with-pow/
 # added hackery to work around wordpress issues - Patrick Anderson (patrick@trinity-ai.com)
 # clearly this could be cleaner, but it does work
-
 require 'rack'
 require 'rack-legacy'
 require 'rack-rewrite'

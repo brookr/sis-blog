@@ -1,2 +1,2 @@
-rvm use 1.9.3-head@SIS
+rvm use ruby-1.9.3-head@SIS
 export PATH=bin:$PATH
