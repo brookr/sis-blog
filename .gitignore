@@ -2,8 +2,7 @@ bin/
 Gemfile
 Gemfile.lock
 wp-content/advanced-cache.php
-wp-content/cache/1.html
-wp-content/cache/2.html
-wp-content/cache/supercache/
+wp-content/cache/
 .powenv
 tmp/
+db/
